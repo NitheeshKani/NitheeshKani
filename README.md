@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitheesh Kani K</h1>
 <h3 align="center">A passionate Computer Science and Design Student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NitheeshKani&label=Profile%20views&color=0e75b6&style=flat" alt="kanicancode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanicancode" alt="kanicancode" /></a> </p>
 
